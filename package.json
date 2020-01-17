@@ -4,7 +4,7 @@
   "description": "Test case for Parcel Bundler issue with importing using path relative to the root of the project.",
   "main": "index.js",
   "scripts": {
-    "start": "parcel index.html"
+    "start": "parcel src/index.html"
   },
   "author": "Mike Cline",
   "license": "ISC",
