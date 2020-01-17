@@ -1,0 +1,19 @@
+{
+  "name": "parcel-import-problem",
+  "version": "1.0.0",
+  "description": "Test case for Parcel Bundler issue with importing using path relative to the root of the project.",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "Mike Cline",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "src": "^1.1.2"
+  },
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
+}
